@@ -4,6 +4,7 @@ Allows you to have multiple instances of Roblox on different accounts
 # USE DIFFERENT ACCOUNTS FOR EACH INSTANCE OR IT WONT WORK
 
 Download: https://github.com/Calvin99Cooler/Roblox-Multi-Instance/releases/download/roblox/Multi-blox.exe
+Releases: https://github.com/Calvin99Cooler/Roblox-Multi-Instance/releases/tag/roblox
 
 Tutorial:
 1. Open the program allow Administrator it helps but if dont want you dont have to
