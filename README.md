@@ -1,7 +1,9 @@
 # Roblox-Multi-Instance
 Allows you to have multiple instances of Roblox on different accounts
 
-# USE DIFFERENT ACCOUNTS FOR EACH INSTANCE OR IT WONT WORK
+# USE DIFFERENT ACCOUNTS FOR EACH INSTANCE OR IT WONT WORK!!!
+
+## Make sure you kill all instances before clicking launch or it wont work!
 
 Download: https://github.com/Calvin99Cooler/Roblox-Multi-Instance/releases/download/roblox/Multi-blox.exe
 Releases: https://github.com/Calvin99Cooler/Roblox-Multi-Instance/releases/tag/roblox
