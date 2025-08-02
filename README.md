@@ -15,5 +15,5 @@ Tutorial:
 4. Go to the roblox website and login into a different account then the one already open and launch a game
 5. Now you can play more then one instance of roblox
 
-Only has one detection but it has history of high false positives:
+Only has one detection but "Bkav Pro" has history of false positives:
 https://www.virustotal.com/gui/file/091254770b96bf2d9c5b06a477e629b62b4ac144f87acb996dae088a3b46ac99?nocache=1
